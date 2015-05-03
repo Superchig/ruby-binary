@@ -1,0 +1,5 @@
+module Binary_Calc
+  def self.binary_to_dec
+    
+  end
+end

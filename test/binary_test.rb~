@@ -1,0 +1,8 @@
+require 'mintest/autorun'
+require_relative '../lib/binary_converter.rb'
+
+class TestBinary < MiniTest::Test
+  def test_binary_to_decimal
+    assert_equal "100100", 
+  end
+end
